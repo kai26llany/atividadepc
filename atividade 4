@@ -23,16 +23,17 @@
         Que não se desfaz <br>
         </font>
         <p>
-            <font face="Bookman Old Style" size="5" color="BLUE">
-                E a coisa mais divina
-Que há no mundo
-É viver cada segundo
-Como nunca <mais class="br"> </mais>
-</font>
-  </p>
-E a coisa mais divina
-Que há no mundo
-É viver cada segundo
-Como nunca mais...
-<font face="Bookman Old Style" size="5" color="BLUE"></font>
-
+     <font face="Bookman Old Style" size="5" color="BLUE">
+        E a coisa mais divina
+        Que há no mundo
+        É viver cada segundo
+        Como nunca <mais class="br"> </mais>
+    </font>
+       
+    <font face="Bookman Old Style" size="5" color="BLUE">
+    divina
+    Que há no mundo
+    É viver cada segundo
+    Como nunca mais...</font> 
+</head>
+<body>
