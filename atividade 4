@@ -11,29 +11,30 @@
 <body>
 
     <p>
-        <font face="'Book Antiqua','Arial Narrow'" size="3" color="GREEN">
+        <font face="'Book Antiqua','Arial Narrow'" size="6" color="GREEN">
             Tomara<br>
         </font>
     </p><font face="Bookman Old Style" size="+2" color="RED">
-        Que a tristeza te convença
-        Que a saudade não compensa
-        E que a ausência não dá paz
-        E o verdadeiro amor de quem se ama
-        Tece a mesma antiga trama
+        Que a tristeza te convença <br>
+        Que a saudade não compensa <br>
+        E que a ausência não dá paz <br>
+        E o verdadeiro amor de quem se ama <br>
+        Tece a mesma antiga trama <br>
         Que não se desfaz <br>
         </font>
         <p>
      <font face="Bookman Old Style" size="5" color="BLUE">
-        E a coisa mais divina
-        Que há no mundo
-        É viver cada segundo
+        E a coisa mais divina <br>
+        Que há no mundo <br>
+        É viver cada segundo <br>
         Como nunca <mais class="br"> </mais>
     </font>
        
     <font face="Bookman Old Style" size="5" color="BLUE">
-    divina
-    Que há no mundo
-    É viver cada segundo
-    Como nunca mais...</font> 
+    divina <br>
+    Que há no mundo <br>
+    É viver cada segundo <br>
+    Como nunca mais... <br>
+    </font> 
 </head>
 <body>
